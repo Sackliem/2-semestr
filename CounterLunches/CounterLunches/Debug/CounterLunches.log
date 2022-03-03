@@ -1,0 +1,13 @@
+﻿  CounterLunches.c
+E:\repository\CounterLunches\CounterLunches\CounterLunches.c(10,44): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+E:\repository\CounterLunches\CounterLunches\CounterLunches.c(10,50): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+E:\repository\CounterLunches\CounterLunches\CounterLunches.c(10,46): warning C4024: RegCreateKeyExW: различные типы для формального и фактического параметров 3
+E:\repository\CounterLunches\CounterLunches\CounterLunches.c(13,58): warning C4133: функция: несовместимые типы - из "DWORD *" в "LPBYTE"
+E:\repository\CounterLunches\CounterLunches\CounterLunches.c(17,40): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+E:\repository\CounterLunches\CounterLunches\CounterLunches.c(17,36): warning C4024: RegSetValueExW: различные типы для формального и фактического параметров 3
+E:\repository\CounterLunches\CounterLunches\CounterLunches.c(17,59): warning C4133: функция: несовместимые типы - из "DWORD *" в "const BYTE *"
+E:\repository\CounterLunches\CounterLunches\CounterLunches.c(20,40): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+E:\repository\CounterLunches\CounterLunches\CounterLunches.c(20,36): warning C4024: RegSetValueExW: различные типы для формального и фактического параметров 3
+E:\repository\CounterLunches\CounterLunches\CounterLunches.c(20,59): warning C4133: функция: несовместимые типы - из "DWORD *" в "const BYTE *"
+E:\repository\CounterLunches\CounterLunches\CounterLunches.c(9,1): warning C4133: инициализация: несовместимые типы - из "unsigned short [6]" в "char *"
+  CounterLunches.vcxproj -> E:\repository\CounterLunches\Debug\CounterLunches.exe

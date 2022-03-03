@@ -1,0 +1,4 @@
+﻿  pass.c
+E:\repository\pass\pass\pass.c(19,14): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+E:\repository\pass\pass\pass.c(21,9): warning C4013: putch: нет определения; предполагается "extern" с возвратом типа "int"
+  pass.vcxproj -> E:\repository\pass\Debug\pass.exe
