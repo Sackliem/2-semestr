@@ -2,9 +2,6 @@
 #include<stdlib.h>
 #include<string.h>
 
-
-
-
 int days(char* day, char *month) {
 	char com[25] = "7z x secret.7z -p";
 	char command[40];
@@ -53,23 +50,6 @@ int main() {
 			if (i == 49 && j == 50) break;
 		}
 	}
-	/*for (int i = 49; i < 58; i++) {
-		if (work == 1) {
-			month[1] = i;
-			if (days(day, month) == 0) { work = 0; break; }
-			printf("\n");
-			if (i == 57) {
-				month[0] = 49;
-				for (int j = 48; j <= 50; j++) {
-					month[1] = j;
-					if (days(day, month) == 0) { work = 0; break; }
-					printf("\n");
-				}
-				break;
-			}
-		}
-		else break;
-	}*/
 	printf("\n");
 
 
