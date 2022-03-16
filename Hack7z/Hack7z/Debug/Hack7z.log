@@ -1,0 +1,3 @@
+﻿  hack.c
+C:\Users\sackl\source\repos\Hack7z\Hack7z\hack.c(34): warning C4715: days: значение возвращается не при всех путях выполнения
+  Hack7z.vcxproj -> C:\Users\sackl\source\repos\Hack7z\Debug\Hack7z.exe
