@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-3_VariableNumberOfArgs_1",
+      "appliesTo": "3_VariableNumberOfArgs_1/",
+      "type": "launch"
+    }
+  ]
+}

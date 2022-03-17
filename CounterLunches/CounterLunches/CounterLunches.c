@@ -13,7 +13,7 @@ int main() {
 		if(RegQueryValueEx(R, TEXT("Count"), NULL, NULL, &Value, &cBuff) == ERROR_SUCCESS) {
 			Value++;
 			if (Value > 5) printf("Already lunchers more then 5, Licensing are close\n your lunchers is: %d\n",Value);
-			else printf("This program has been run %d times.\n", Value);
+			else printf("This program has been run %d times\n", Value);
 			RegSetValueEx(R, TEXT("Count"), NULL, REG_DWORD, &Value, 4);
 		}
 		else{
