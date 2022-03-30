@@ -1,0 +1,4 @@
+﻿  SysInfo.c
+E:\repository\SysInfo\SysInfo\SysInfo.c(17,38): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+E:\repository\SysInfo\SysInfo\SysInfo.c(76,20): warning C4133: функция: несовместимые типы - из "char [257]" в "LPWSTR"
+  SysInfo.vcxproj -> E:\repository\SysInfo\Debug\SysInfo.exe
