@@ -1,0 +1,17 @@
+﻿  ProtectedProgram.c
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(12,44): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(12,50): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(12,46): warning C4024: RegCreateKeyExW: различные типы для формального и фактического параметров 3
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(13,59): warning C4133: функция: несовместимые типы - из "DWORD *" в "LPBYTE"
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(16,40): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(16,36): warning C4024: RegSetValueExW: различные типы для формального и фактического параметров 3
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(16,59): warning C4133: функция: несовместимые типы - из "DWORD *" в "const BYTE *"
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(19,40): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(19,36): warning C4024: RegSetValueExW: различные типы для формального и фактического параметров 3
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(19,59): warning C4133: функция: несовместимые типы - из "DWORD *" в "const BYTE *"
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(25,58): warning C4133: функция: несовместимые типы - из "DWORD *" в "LPBYTE"
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(27,39): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(27,35): warning C4024: RegSetValueExW: различные типы для формального и фактического параметров 3
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(27,58): warning C4133: функция: несовместимые типы - из "DWORD *" в "const BYTE *"
+D:\repository\ProtectedProgram\ProtectedProgram\ProtectedProgram.c(11,1): warning C4133: инициализация: несовместимые типы - из "unsigned short [6]" в "char *"
+  ProtectedProgram.vcxproj -> D:\repository\ProtectedProgram\x64\Debug\ProtectedProgram.exe
