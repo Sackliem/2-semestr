@@ -1,0 +1,3 @@
+﻿  IntegerEx.c
+D:\repository\IntegereExtarc\IntegerEx\IntegerEx.c(14,15): warning C4013: getche: нет определения; предполагается "extern" с возвратом типа "int"
+  IntegerEx.vcxproj -> D:\repository\IntegereExtarc\Debug\IntegerEx.exe
