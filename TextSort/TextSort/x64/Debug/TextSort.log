@@ -1,0 +1,11 @@
+﻿  TextSort.c
+D:\repository\TextSort\TextSort\TextSort.c(16,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\repository\TextSort\TextSort\TextSort.c(45,1): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "void *"
+D:\repository\TextSort\TextSort\TextSort.c(73,12): warning C4098: openArg: функция типа "void", возвращающая значение
+D:\repository\TextSort\TextSort\TextSort.c(95,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+D:\repository\TextSort\TextSort\TextSort.c(101,12): warning C4098: openConsole: функция типа "void", возвращающая значение
+D:\repository\TextSort\TextSort\TextSort.c(130,12): warning C4098: openBookList: функция типа "void", возвращающая значение
+D:\repository\TextSort\TextSort\TextSort.c(136,12): warning C4047: =: "char" отличается по уровням косвенного обращения от "void *"
+D:\repository\TextSort\TextSort\TextSort.c(146,69): warning C4098: openBookList: функция типа "void", возвращающая значение
+D:\repository\TextSort\TextSort\TextSort.c(160,19): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  TextSort.vcxproj -> D:\repository\TextSort\x64\Debug\TextSort.exe
