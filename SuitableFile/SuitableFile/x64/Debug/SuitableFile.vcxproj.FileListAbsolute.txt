@@ -1,0 +1,3 @@
+D:\repository\SuitableFile\SuitableFile\x64\Debug\SuitableFile.vcxproj.MdMergeInputs.cache
+D:\repository\SuitableFile\SuitableFile\x64\Debug\SuitableFile.vcxproj.cppwinrt_plat.cache
+D:\repository\SuitableFile\SuitableFile\x64\Debug\SuitableFile.vcxproj.cppwinrt_comp.cache

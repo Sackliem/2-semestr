@@ -1,0 +1,3 @@
+For compilling with library:
+
+gcc Client.c -o server -lzmq    
