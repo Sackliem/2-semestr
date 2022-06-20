@@ -1,0 +1,5 @@
+﻿  VariableNumberOfArgs.c
+D:\repository\VariableNumberOfArgs\VariableNumberOfArgs\VariableNumberOfArgs.c(24,1): warning C4133: инициализация: несовместимые типы - из "int *" в "double *"
+D:\repository\VariableNumberOfArgs\VariableNumberOfArgs\VariableNumberOfArgs.c(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\repository\VariableNumberOfArgs\VariableNumberOfArgs\VariableNumberOfArgs.c(63,21): warning C4018: <: несоответствие типов со знаком и без знака
+  VariableNumberOfArgs.vcxproj -> D:\repository\VariableNumberOfArgs\Debug\VariableNumberOfArgs.exe

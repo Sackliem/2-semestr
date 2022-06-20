@@ -1,0 +1,6 @@
+﻿  KQueensArrangement.c
+D:\repository\KQueensArrangement\KQueensArrangement\KQueensArrangement.c(26,25): warning C4020: check: слишком много фактических параметров
+D:\repository\KQueensArrangement\KQueensArrangement\KQueensArrangement.c(29,28): warning C4020: vert: слишком много фактических параметров
+D:\repository\KQueensArrangement\KQueensArrangement\KQueensArrangement.c(46,31): warning C4047: =: "int" отличается по уровням косвенного обращения от "void *"
+D:\repository\KQueensArrangement\KQueensArrangement\KQueensArrangement.c(49,13): warning C4020: vert: слишком много фактических параметров
+  KQueensArrangement.vcxproj -> D:\repository\KQueensArrangement\x64\Debug\KQueensArrangement.exe
